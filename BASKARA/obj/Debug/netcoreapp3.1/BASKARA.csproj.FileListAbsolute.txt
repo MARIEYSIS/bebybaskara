@@ -1,0 +1,16 @@
+D:\2AI\BASKARA\bin\Debug\netcoreapp3.1\BASKARA.exe
+D:\2AI\BASKARA\bin\Debug\netcoreapp3.1\BASKARA.deps.json
+D:\2AI\BASKARA\bin\Debug\netcoreapp3.1\BASKARA.runtimeconfig.json
+D:\2AI\BASKARA\bin\Debug\netcoreapp3.1\BASKARA.runtimeconfig.dev.json
+D:\2AI\BASKARA\bin\Debug\netcoreapp3.1\BASKARA.dll
+D:\2AI\BASKARA\bin\Debug\netcoreapp3.1\BASKARA.pdb
+D:\2AI\BASKARA\obj\Debug\netcoreapp3.1\BASKARA.csproj.AssemblyReference.cache
+D:\2AI\BASKARA\obj\Debug\netcoreapp3.1\BASKARA.Form1.resources
+D:\2AI\BASKARA\obj\Debug\netcoreapp3.1\BASKARA.csproj.GenerateResource.cache
+D:\2AI\BASKARA\obj\Debug\netcoreapp3.1\BASKARA.GeneratedMSBuildEditorConfig.editorconfig
+D:\2AI\BASKARA\obj\Debug\netcoreapp3.1\BASKARA.AssemblyInfoInputs.cache
+D:\2AI\BASKARA\obj\Debug\netcoreapp3.1\BASKARA.AssemblyInfo.cs
+D:\2AI\BASKARA\obj\Debug\netcoreapp3.1\BASKARA.csproj.CoreCompileInputs.cache
+D:\2AI\BASKARA\obj\Debug\netcoreapp3.1\BASKARA.dll
+D:\2AI\BASKARA\obj\Debug\netcoreapp3.1\BASKARA.pdb
+D:\2AI\BASKARA\obj\Debug\netcoreapp3.1\BASKARA.genruntimeconfig.cache

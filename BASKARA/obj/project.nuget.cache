@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1uXHC5zVC7UL6wU1IWKrGC/vyWgBRtB9r1Ss4peAw43JtK0N3A3GR8CZrztUrGC62tG/hJZsk529vdmTyCcGlg==",
+  "success": true,
+  "projectFilePath": "D:\\2AI\\BASKARA\\BASKARA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
